@@ -2,6 +2,10 @@
 
 A simple and responsive currency converter built with **React.js** and **Vite**, using real-time exchange rate data from an external API.
 
+## Live Demo
+
+Link: https://mitaliptl-005.github.io/Currency-Convert/
+
 ## 🚀 Features
 
 - Convert between multiple currencies
